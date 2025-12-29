@@ -17,7 +17,7 @@ Modular Python toolkit for parsing iOS device artifacts. Extracts data from SQLi
 ## Installation
 
 ```bash
-git clone https://github.com/yourusername/ios-forensics.git
+git clone https://github.com/sideffectt/ios-forensics.git
 cd ios-forensics
 pip install -e .
 ```
