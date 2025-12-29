@@ -1,0 +1,9 @@
+# No external dependencies required
+# Uses only Python standard library:
+# - sqlite3
+# - plistlib
+# - json
+# - csv
+# - datetime
+# - pathlib
+# - argparse
